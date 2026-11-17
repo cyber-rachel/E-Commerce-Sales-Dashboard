@@ -94,8 +94,13 @@ E-Commerce-Sales-Dashboard/
 
 [Watch the E-Commerce Sales Dashboard Walkthrough](video/Ecommerce_Sales_Dashboard_Walkthrough.mp4)
 
-## Author
-
-**Data Analytics Portfolio Project**
-
 Developed using Microsoft Power BI and Excel.
+
+## 👤 Author
+
+**Rachel Konadu Gyamfi**
+
+Data Analytics Portfolio Project
+
+[GitHub](https://github.com/)
+
